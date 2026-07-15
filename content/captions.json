@@ -1,0 +1,9 @@
+[
+  {"text":"每一次放行，都可能是一场考验","startMs":0,"endMs":3000,"timestampMs":0,"confidence":1},
+  {"text":"进度、成本、人情……层层压力迎面而来","startMs":3000,"endMs":8000,"timestampMs":3000,"confidence":1},
+  {"text":"风险，不会因为催促而消失","startMs":8000,"endMs":13000,"timestampMs":8000,"confidence":1},
+  {"text":"面对妥协，他必须作出选择","startMs":13000,"endMs":18000,"timestampMs":13000,"confidence":1},
+  {"text":"停线、隔离、整改、复核——用专业冲破阻力","startMs":18000,"endMs":23000,"timestampMs":18000,"confidence":1},
+  {"text":"因为守住底线，才能放心交付","startMs":23000,"endMs":27000,"timestampMs":23000,"confidence":1},
+  {"text":"食品安全，质量人用行动守护","startMs":27000,"endMs":30000,"timestampMs":27000,"confidence":1}
+]

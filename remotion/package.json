@@ -1,0 +1,21 @@
+{
+  "name": "food-safety-guardian-remotion",
+  "private": true,
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts FoodSafetyGuardian ../output/food-safety-guardian-remotion.mp4 --codec=h264"
+  },
+  "dependencies": {
+    "@fontsource/noto-sans-sc": "latest",
+    "@remotion/cli": "latest",
+    "@remotion/media": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "remotion": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "typescript": "5.9.3"
+  }
+}

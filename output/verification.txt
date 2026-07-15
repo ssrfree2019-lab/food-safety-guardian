@@ -1,0 +1,30 @@
+Food Safety Guardian final media verification
+Date: 2026-07-14
+
+File: food-safety-guardian-30s-final.mp4
+Video codec: H.264
+Width: 1080
+Height: 1920
+Frame rate: 30/1 fps
+Video frames: 900
+Container duration: 30.016 seconds
+Audio codec: AAC
+File size: 7,155,828 bytes
+
+HyperFrames checks:
+- Lint: 0 errors, 0 warnings
+- Runtime: 0 errors, 0 warnings
+- Layout samples: 1.5, 5.5, 10.5, 15.5, 20.5, 25, 28.5 seconds
+- Layout findings: 0
+- Contrast: 25 checked, 25 passed
+
+Remotion checks:
+- TypeScript: passed
+- Composition: 1080x1920, 30 fps, 900 frames
+- Representative stills rendered at frames 45, 165, 315, 465, 615, 750, 855
+- Final contact sheet visually inspected
+
+Audio note:
+- Final MP4 includes a cinematic synthesized ambience bed.
+- The approved Mandarin male narration script is supplied in content/voiceover.txt.
+- Narration was not burned into this render because the local Kokoro voice model download was blocked by the restricted runtime network.
